@@ -1,0 +1,10 @@
+GIT STATUS
+GIT ADD .
+GIT PULL
+GIT PUSH
+GIT log --online
+git commit -m
+git branch -a
+git branch branchName
+git chkout -b feature 1
+git push -u --all
